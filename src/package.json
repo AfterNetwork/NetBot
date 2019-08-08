@@ -1,0 +1,8 @@
+{
+“name”: “NetBot”,
+“version”: “1.0.0-alpha”,
+“description”: “A bot connected to the net.”,
+“main”: “bot.js”,
+“author”: “AfterNetwork”,
+“dependencies”: {}
+}
